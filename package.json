@@ -2,7 +2,7 @@
   "name": "mp2-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MartaFradique.github.io/rickmorty-wiki",
+  "homepage": "http://MartaFradique.github.io/rickmorty-wiki",
   "dependencies": {
     "@headlessui/react": "^1.7.5",
     "@react-three/drei": "^9.46.2",
