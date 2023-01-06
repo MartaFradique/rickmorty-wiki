@@ -2,6 +2,7 @@
   "name": "mp2-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MartaFradique.github.io/rickmorty-wiki",
   "dependencies": {
     "@headlessui/react": "^1.7.5",
     "@react-three/drei": "^9.46.2",
@@ -12,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "1.2.0",
     "flowbite": "^1.5.5",
+    "gh-pages": "^4.0.0",
     "heroicons-react": "^1.4.1",
     "netlify-cli": "^12.2.11",
     "react": "^18.2.0",
@@ -29,7 +31,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "browserslist": {
     "production": [
