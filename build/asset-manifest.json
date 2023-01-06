@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc5a6f87.css",
+    "main.js": "/static/js/main.0f3cf6fa.js",
+    "static/media/aboutusImage.png": "/static/media/aboutusImage.28661e7a2a2e30cef008.png",
+    "static/media/bg-image2.jpg": "/static/media/bg-image2.b73be69050fa48b1a20c.jpg",
+    "static/media/Rick-and-Morty.png": "/static/media/Rick-and-Morty.7c6bc53e5d236db70322.png",
+    "index.html": "/index.html",
+    "main.bc5a6f87.css.map": "/static/css/main.bc5a6f87.css.map",
+    "main.0f3cf6fa.js.map": "/static/js/main.0f3cf6fa.js.map"
+  },
+  "entrypoints": ["static/css/main.bc5a6f87.css", "static/js/main.0f3cf6fa.js"]
+}
